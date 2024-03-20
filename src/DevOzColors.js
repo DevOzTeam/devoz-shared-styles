@@ -8,4 +8,4 @@ const DevOzColors = {
     ORANGE: "#d96234", //Flame Pea
 };
 
-module.exports = colors;
+module.exports = DevOzColors;
